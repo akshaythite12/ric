@@ -1,0 +1,4 @@
+H0-Difference in gain score is not likely the result of experimentals
+H1-Difference in gain score is likely the result of experimentals
+
+(mean1-mean2)/SQRT(SD1*SD1)/COUNT+SQRT(SD2*SD2)/COUNT
